@@ -137,9 +137,9 @@ module.exports = {
         additionalLanguages: ["solidity"],
       },
       algolia: {
-        apiKey: "9f3501510e023882845791911e5c113a",
+        apiKey: "71aa580c710da82a4480a048d05ba66b",
         indexName: "wagmix-docs",
-        appId: "3TBGQBHK03",
+        appId: "ZCXOQZAEXK",
         contextualSearch: false,
       },
     }),
